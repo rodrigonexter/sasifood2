@@ -6,10 +6,10 @@
  class Connect
  {
  	
- 	var $localhost = "localhost";
- 	var $root = "root";
- 	var $passwd = "";
- 	var $database = "controlestoque";
+ 	var $localhost = "127.0.0.1:3306";
+ 	var $root = "u813647343_sasi";
+ 	var $passwd = "Sasisasi";
+ 	var $database = "u813647343_sasi";
  	var $SQL;
  	
 
